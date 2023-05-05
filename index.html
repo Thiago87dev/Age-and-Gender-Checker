@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificador de idade</title>
+    <link rel="stylesheet" href="e2_style.css">
+</head>
+<body onload="carregar()">
+    <header>
+        <h1>Verificador de idade</h1>
+    </header>
+    <section>
+        <div>
+            <p>
+            <label for="ano">digite o ano que vc nasceu</label>
+            <input type="number" name="txtano" id="txtano">
+            </p>
+            <p>
+                sexo:
+                <label for="mas">Masculino</label>
+                <input type="radio" name="sexo" id="mas" checked>
+                <label for="fem" class="label-f">Feminino</label>
+                <input type="radio" name="sexo" id="fem">
+            </p>
+            <p>
+                <button id="btn">verificar</button>
+            </p>
+        </div>
+        <div id="res">
+            preencha os dados acima para ver o resultado    
+        </div>
+    </section>
+    <footer>
+        <p>&copy;ThiagoAlves</p>
+    </footer>
+
+    <script src="e2_script.js" defer></script>
+</body>
+</html>

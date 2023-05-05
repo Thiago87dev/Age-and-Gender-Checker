@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(107, 107, 241);
+    font: normal 15pt arial;
+    margin: 10px;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.441);
+}
+
+div{
+    padding: 5px;
+}
+
+.label-f{
+   margin-left: 15px; 
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
