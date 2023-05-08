@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Age and Gender Checker](https://thiago87dev.github.io/idade-homem-mulher/)
+- Live Site URL: [Age and Gender Checker]([https://thiago87dev.github.io/idade-homem-mulher/](https://thiago87dev.github.io/Age-and-Gender-Checker/))
 
 ## My process
 
